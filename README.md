@@ -3,9 +3,9 @@
 
 ## Programming languages and frameworks
 ### Java
-[JUnit 5](https://github.com/allure-framework/allure-java/tree/master/allure-junit5) - support for JUnit 5 framework reporting.
-[JUnit 4](https://github.com/allure-framework/allure-java/tree/master/allure-junit4) - support for JUnit 4 framework reporting.
-[TestNG](https://github.com/allure-framework/allure-java/tree/master/allure-testng) - support for TestNG framework reporting.
+[JUnit 5](https://github.com/allure-framework/allure-java/tree/master/allure-junit5) - support for JUnit 5 framework reporting.  
+[JUnit 4](https://github.com/allure-framework/allure-java/tree/master/allure-junit4) - support for JUnit 4 framework reporting.  
+[TestNG](https://github.com/allure-framework/allure-java/tree/master/allure-testng) - support for TestNG framework reporting.  
 []() - 
 []() - 
 
