@@ -32,8 +32,9 @@
 
 ## Testing Tools
 
-Selenium
-Playwright
+Selenium. 
+Playwright. 
+Newman. 
 
 ## CI/CDs
 
