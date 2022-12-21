@@ -14,14 +14,14 @@
 
 ### JavaScript
 
-[allure-playwright](https://github.com/allure-framework/allure-js/tree/master/packages/allure-playwright) - support for playwright framework reporting.
-[allure-mocha](https://github.com/allure-framework/allure-js/tree/master/packages/allure-mocha) - support for mocha framework reporting.
-[allure-jasmine](https://github.com/allure-framework/allure-js/tree/master/packages/allure-jasmine) - support for jasmine framework reporting.
-[allure-cucumberjs](https://github.com/allure-framework/allure-js/tree/master/packages/allure-cucumberjs) - support for cucumberjs framework reporting.
-[newman-reporter-allure](https://github.com/allure-framework/allure-js/tree/master/packages/newman-reporter-allure) - support for newman(postman test-runner) framework reporting.
-[wdio-allure-reporter](https://github.com/webdriverio/webdriverio/tree/main/packages/wdio-allure-reporter) - support for webdriverio framework reporting.
-[codeceptjs](https://codecept.io/plugins/#allure) - support for codeceptjs framework reporting.
-[cypress](https://www.npmjs.com/package/@shelex/cypress-allure-plugin) - support for cypress framework reporting.
+[allure-playwright](https://github.com/allure-framework/allure-js/tree/master/packages/allure-playwright) - support for playwright framework reporting.  
+[allure-mocha](https://github.com/allure-framework/allure-js/tree/master/packages/allure-mocha) - support for mocha framework reporting.  
+[allure-jasmine](https://github.com/allure-framework/allure-js/tree/master/packages/allure-jasmine) - support for jasmine framework reporting.  
+[allure-cucumberjs](https://github.com/allure-framework/allure-js/tree/master/packages/allure-cucumberjs) - support for cucumberjs framework reporting.  
+[newman-reporter-allure](https://github.com/allure-framework/allure-js/tree/master/packages/newman-reporter-allure) - support for newman(postman test-runner) framework reporting.  
+[wdio-allure-reporter](https://github.com/webdriverio/webdriverio/tree/main/packages/wdio-allure-reporter) - support for webdriverio framework reporting.  
+[codeceptjs](https://codecept.io/plugins/#allure) - support for codeceptjs framework reporting.  
+[cypress](https://www.npmjs.com/package/@shelex/cypress-allure-plugin) - support for cypress framework reporting.  
 
 ### Python
 
