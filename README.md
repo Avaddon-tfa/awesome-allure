@@ -12,12 +12,12 @@
 [JUnit 5](https://github.com/allure-framework/allure-java/tree/master/allure-junit5) - support for JUnit 5 framework reporting.  
 [JUnit 4](https://github.com/allure-framework/allure-java/tree/master/allure-junit4) - support for JUnit 4 framework reporting.  
 [TestNG](https://github.com/allure-framework/allure-java/tree/master/allure-testng) - support for TestNG framework reporting.  
-[Spring Web](https://github.com/allure-framework/allure-java/tree/master/allure-spring-web) - support for Spring Web framework reporting. 
-[Spock 2](https://github.com/allure-framework/allure-java/tree/master/allure-spock2) -  support for Spock 2 reporting. 
-[Selenide](https://github.com/allure-framework/allure-java/tree/master/allure-selenide) - support for Selenide framework reporting. 
-[Rest Assured](https://github.com/allure-framework/allure-java/tree/master/allure-rest-assured) - support for REST Assured framework reporting. 
-[OkHttp](https://github.com/allure-framework/allure-java/tree/master/allure-okhttp) - support for OkHttp framework reporting. 
-[OkHttp 3](https://github.com/allure-framework/allure-java/tree/master/allure-okhttp3) - support for OkHttp 3 framework reporting. 
+[Spring Web](https://github.com/allure-framework/allure-java/tree/master/allure-spring-web) - support for Spring Web framework reporting.  
+[Spock 2](https://github.com/allure-framework/allure-java/tree/master/allure-spock2) -  support for Spock 2 reporting.  
+[Selenide](https://github.com/allure-framework/allure-java/tree/master/allure-selenide) - support for Selenide framework reporting.  
+[Rest Assured](https://github.com/allure-framework/allure-java/tree/master/allure-rest-assured) - support for REST Assured framework reporting.  
+[OkHttp](https://github.com/allure-framework/allure-java/tree/master/allure-okhttp) - support for OkHttp framework reporting.  
+[OkHttp 3](https://github.com/allure-framework/allure-java/tree/master/allure-okhttp3) - support for OkHttp 3 framework reporting.  
 [JsonUnit](https://github.com/allure-framework/allure-java/tree/master/allure-jsonunit) - support for JsonUnit reporting. 
 [JBehave](https://github.com/allure-framework/allure-java/tree/master/allure-jbehave) - support for JBehave reporting.  
 
