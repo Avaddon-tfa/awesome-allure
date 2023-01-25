@@ -24,18 +24,18 @@
 [cypress](https://www.npmjs.com/package/@shelex/cypress-allure-plugin) - support for Cypress reporting.  
 
 ### Python
-[Robot Framework](https://github.com/allure-framework/allure-python/tree/master/allure-robotframework) - support for Robot framework reporting. 
-[Behave](https://github.com/allure-framework/allure-python/tree/master/allure-behave) - support for Behave framework reporting. 
-[Pytest](https://github.com/allure-framework/allure-python/tree/master/allure-pytest) - support for Pytest framework reporting. 
-[Pytest BDD](https://github.com/allure-framework/allure-python/tree/master/allure-pytest-bdd) - support for PyTest BDD framework reporting. 
-[Nose2](https://github.com/allure-framework/allure-python/tree/master/allure-nose2) - support for Nose2 framework reporting. 
+[Robot Framework](https://github.com/allure-framework/allure-python/tree/master/allure-robotframework) - support for Robot framework reporting.  
+[Behave](https://github.com/allure-framework/allure-python/tree/master/allure-behave) - support for Behave framework reporting.  
+[Pytest](https://github.com/allure-framework/allure-python/tree/master/allure-pytest) - support for Pytest framework reporting.  
+[Pytest BDD](https://github.com/allure-framework/allure-python/tree/master/allure-pytest-bdd) - support for PyTest BDD framework reporting.  
+[Nose2](https://github.com/allure-framework/allure-python/tree/master/allure-nose2) - support for Nose2 framework reporting.  
 
 ### Kotlin and Android
 
 ### .NET/C#
-[NUnit](https://github.com/allure-framework/allure-csharp/tree/main/Allure.NUnit) - support for NUnit framework reporting. 
-[XUnit](https://github.com/allure-framework/allure-csharp/tree/main/Allure.XUnit) - support for XUnit framework reporting. 
-[SpecFlow](https://github.com/allure-framework/allure-csharp/tree/main/Allure.SpecFlowPlugin) - support for SpecFlow framework reporting. 
+[NUnit](https://github.com/allure-framework/allure-csharp/tree/main/Allure.NUnit) - support for NUnit framework reporting.  
+[XUnit](https://github.com/allure-framework/allure-csharp/tree/main/Allure.XUnit) - support for XUnit framework reporting.  
+[SpecFlow](https://github.com/allure-framework/allure-csharp/tree/main/Allure.SpecFlowPlugin) - support for SpecFlow framework reporting.  
 
 ### PHP
 
