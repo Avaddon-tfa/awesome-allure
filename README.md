@@ -56,12 +56,6 @@
 
 [allure-go](https://github.com/ozontech/allure-go) - complete Allure provider in Go, without overloading the interface of usage. The project started as a fork of Testify, but over time it got its own runner and its own features.
 
-## Testing Tools
-
-Selenium.
-Playwright.
-Newman.
-
 ## CI/CDs
 
 [TeamCity](https://plugins.jetbrains.com/plugin/20544-allure-report) - Plugin adds support for generate Allure Report based on tests results right on the TeamCity Pipeline
