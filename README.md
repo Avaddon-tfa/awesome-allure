@@ -18,7 +18,7 @@
 [Rest Assured](https://github.com/allure-framework/allure-java/tree/master/allure-rest-assured) - support for REST Assured framework reporting.  
 [OkHttp](https://github.com/allure-framework/allure-java/tree/master/allure-okhttp) - support for OkHttp framework reporting.  
 [OkHttp 3](https://github.com/allure-framework/allure-java/tree/master/allure-okhttp3) - support for OkHttp 3 framework reporting.  
-[JsonUnit](https://github.com/allure-framework/allure-java/tree/master/allure-jsonunit) - support for JsonUnit reporting. 
+[JsonUnit](https://github.com/allure-framework/allure-java/tree/master/allure-jsonunit) - support for JsonUnit reporting.  
 [JBehave](https://github.com/allure-framework/allure-java/tree/master/allure-jbehave) - support for JBehave reporting.  
 
 ### JavaScript
