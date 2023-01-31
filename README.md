@@ -51,7 +51,7 @@ Feel free to add the integrations and adaptors you have created, tested, or used
 
 ### Swift and iOS
 
-XCUITest
+[XCTest](https://github.com/eroshenkoam/xcresults) - A command line tool to extract test summaries & screenshots from Xcode 11 XCResult files.  
 
 ### Scala
 
