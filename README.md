@@ -1,6 +1,12 @@
 # Awesome Allure
 
-🚀 The collection of all Allure Report adaptors for tools and frameworks.
+At Qameta Software, we know that finding the right adaptor for Allure Report might be a challenge. 
+This is why we have gathered the collection of all Allure Report adaptors for tools and frameworks we know. 🚀 
+
+### Contributing
+
+We want this list to be complete, so community support is much appreciated!
+Feel free to add the integrations and adaptors you have created, tested, or used with Allure Report. 
 
 ## Programming languages and frameworks
 
@@ -8,7 +14,7 @@
 [AssertJ](https://github.com/allure-framework/allure-java/tree/master/allure-assertj) - support for AssertJ framework reporting.  
 [Awaitility](https://github.com/allure-framework/allure-java/tree/master/allure-awaitility) - support for Awaitility framework reporting.  
 [Citrus Framework](https://github.com/allure-framework/allure-java/tree/master/allure-citrus) - support for Citrus framework reporting.  
-[JAX RS](https://github.com/allure-framework/allure-java/tree/master/allure-jax-rs) - support for JAX RS framework reporting.  
+[JAX-RS](https://github.com/allure-framework/allure-java/tree/master/allure-jax-rs) - support for JAX-RS framework reporting.  
 [JUnit 5](https://github.com/allure-framework/allure-java/tree/master/allure-junit5) - support for JUnit 5 framework reporting.  
 [JUnit 4](https://github.com/allure-framework/allure-java/tree/master/allure-junit4) - support for JUnit 4 framework reporting.  
 [TestNG](https://github.com/allure-framework/allure-java/tree/master/allure-testng) - support for TestNG framework reporting.  
@@ -41,26 +47,42 @@
 
 ### Kotlin and Android
 
+[JUnit4, Android Robolectric and Android Instrumentation support](https://github.com/allure-framework/allure-kotlin) - support for Kotlin Android testing tools. 
+
+### Swift and iOS
+
+XCUITest
+
+### Scala
+
+[ScalaTest](https://github.com/allure-framework/allure-java/tree/master/allure-scalatest) - support for ScalaTest framework reporting.  
+
 ### .NET/C#
 [NUnit](https://github.com/allure-framework/allure-csharp/tree/main/Allure.NUnit) - support for NUnit framework reporting.  
 [XUnit](https://github.com/allure-framework/allure-csharp/tree/main/Allure.XUnit) - support for XUnit framework reporting.  
 [SpecFlow](https://github.com/allure-framework/allure-csharp/tree/main/Allure.SpecFlowPlugin) - support for SpecFlow framework reporting.  
 
 ### PHP
+[PHPUnit](https://github.com/allure-framework/allure-phpunit) - support for PHPUnit framework reporting.   
+[Codeception](https://github.com/allure-framework/allure-codeception) - support for Codeception framework reporting. 
 
 ### Ruby
-
-### Swift and iOS
+[Cucumber Ruby](https://github.com/allure-framework/allure-ruby/tree/master/allure-cucumber) - Allure adaptor for Cucumber on Ruby framework. 
+[RSpec](https://github.com/allure-framework/allure-ruby/tree/master/allure-rspec) - support for RSpec reporting. 
 
 ### Go
 
 [allure-go](https://github.com/ozontech/allure-go) - complete Allure provider in Go, without overloading the interface of usage. The project started as a fork of Testify, but over time it got its own runner and its own features.
 
-## CI/CDs
+## CI/CDs / Build tools
 
-[TeamCity](https://plugins.jetbrains.com/plugin/20544-allure-report) - Plugin adds support for generate Allure Report based on tests results right on the TeamCity Pipeline
+[Jenkins](https://github.com/jenkinsci/allure-plugin) - Official Allure Jenkins Plugin that allows building reports on the pipeline and share them.
+[TeamCity](https://plugins.jetbrains.com/plugin/20544-allure-report) - Official plugin adds support for generate Allure Report based on tests results right on the TeamCity Pipeline
+[Bamboo](https://marketplace.atlassian.com/apps/1217177/allure-report-for-bamboo) - Official Allure Bamboo that generates Allure Reports from existing Allure XML files
+[Gradle](https://docs.qameta.io/allure-report/reporting/gradle) — guide on how to implement Allure Report support for Gradle.
+
 
 ## IDEs
 
-[IntelliJ IDEA](https://plugins.jetbrains.com/plugin/12513-allure-testops-support) - Allure reporting features from the IntelliJ IDEA IDE, introducing code inspections, ability to automatically generate a report from local test runs and many more.  
+[IntelliJ IDEA ](https://plugins.jetbrains.com/plugin/12513-allure-testops-support) - Allure TestOps features from the IntelliJ IDEA IDE, introducing code inspections, ability to automatically generate a report from local test runs and many more.  
 [VSCode](https://marketplace.visualstudio.com/items?itemName=qameta.allure-vscode) - use Allure Report right from the editor: generate report using explorer context menu; start live server based on allure test results files; serve already generated report.
