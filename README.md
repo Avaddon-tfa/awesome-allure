@@ -67,8 +67,8 @@ XCUITest
 [Codeception](https://github.com/allure-framework/allure-codeception) - support for Codeception framework reporting. 
 
 ### Ruby
-[Cucumber Ruby](https://github.com/allure-framework/allure-ruby/tree/master/allure-cucumber) - Allure adaptor for Cucumber on Ruby framework. 
-[RSpec](https://github.com/allure-framework/allure-ruby/tree/master/allure-rspec) - support for RSpec reporting. 
+[Cucumber Ruby](https://github.com/allure-framework/allure-ruby/tree/master/allure-cucumber) - Allure adaptor for Cucumber on Ruby framework.   
+[RSpec](https://github.com/allure-framework/allure-ruby/tree/master/allure-rspec) - support for RSpec reporting.   
 
 ### Go
 
@@ -76,10 +76,10 @@ XCUITest
 
 ## CI/CD / Build tools
 
-[Jenkins](https://github.com/jenkinsci/allure-plugin) - Official Allure Jenkins Plugin that allows building reports on the pipeline and share them. 
-[TeamCity](https://plugins.jetbrains.com/plugin/20544-allure-report) - Official plugin adds support for generate Allure Report based on tests results right on the TeamCity Pipeline. 
-[Bamboo](https://marketplace.atlassian.com/apps/1217177/allure-report-for-bamboo) - Official Allure Bamboo that generates Allure Reports from existing Allure XML files. 
-[Gradle](https://docs.qameta.io/allure-report/reporting/gradle) — guide on how to implement Allure Report support for Gradle. 
+[Jenkins](https://github.com/jenkinsci/allure-plugin) - Official Allure Jenkins Plugin that allows building reports on the pipeline and share them.   
+[TeamCity](https://plugins.jetbrains.com/plugin/20544-allure-report) - Official plugin adds support for generate Allure Report based on tests results right on the TeamCity Pipeline.   
+[Bamboo](https://marketplace.atlassian.com/apps/1217177/allure-report-for-bamboo) - Official Allure Bamboo that generates Allure Reports from existing Allure XML files.   
+[Gradle](https://docs.qameta.io/allure-report/reporting/gradle) — guide on how to implement Allure Report support for Gradle.   
 
 
 ## IDEs
