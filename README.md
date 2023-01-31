@@ -74,12 +74,12 @@ XCUITest
 
 [allure-go](https://github.com/ozontech/allure-go) - complete Allure provider in Go, without overloading the interface of usage. The project started as a fork of Testify, but over time it got its own runner and its own features.
 
-## CI/CDs / Build tools
+## CI/CD / Build tools
 
-[Jenkins](https://github.com/jenkinsci/allure-plugin) - Official Allure Jenkins Plugin that allows building reports on the pipeline and share them.
-[TeamCity](https://plugins.jetbrains.com/plugin/20544-allure-report) - Official plugin adds support for generate Allure Report based on tests results right on the TeamCity Pipeline
-[Bamboo](https://marketplace.atlassian.com/apps/1217177/allure-report-for-bamboo) - Official Allure Bamboo that generates Allure Reports from existing Allure XML files
-[Gradle](https://docs.qameta.io/allure-report/reporting/gradle) — guide on how to implement Allure Report support for Gradle.
+[Jenkins](https://github.com/jenkinsci/allure-plugin) - Official Allure Jenkins Plugin that allows building reports on the pipeline and share them. 
+[TeamCity](https://plugins.jetbrains.com/plugin/20544-allure-report) - Official plugin adds support for generate Allure Report based on tests results right on the TeamCity Pipeline. 
+[Bamboo](https://marketplace.atlassian.com/apps/1217177/allure-report-for-bamboo) - Official Allure Bamboo that generates Allure Reports from existing Allure XML files. 
+[Gradle](https://docs.qameta.io/allure-report/reporting/gradle) — guide on how to implement Allure Report support for Gradle. 
 
 
 ## IDEs
